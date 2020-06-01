@@ -3,6 +3,10 @@ body{
     z-index:0;
 }
 
+.btn-block{
+    padding: 10px;
+}
+
 .navbar-dark {
      background-color: #512DA8;
 }
