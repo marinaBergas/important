@@ -60,7 +60,13 @@ body{
 
 .carousel-item img{
 position: absolute;
-top: 0;
-left: 0;
+top: 0px;
+left: 0px;
 min-height: 300px;
+}
+
+#CarouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
 }
